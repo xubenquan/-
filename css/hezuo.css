@@ -1,0 +1,74 @@
+.navbar-header>a>img{
+	width: 83px;
+}
+
+body{
+	background: #F8F8F8;
+}
+
+.container .hight{
+	margin-top: 60px;
+	background: white;
+
+}
+
+.container .hight:hover{
+	box-shadow: 0 0 5px 1px rgba(0,0,0,0.1);
+}
+.container .hight h3{
+		border-bottom: 1px dotted #999999;
+		padding-bottom: 15px;
+}
+
+
+
+
+.container .no1 .hight{
+	background: white;
+
+}
+.container .no1 .hight h4{
+	background: #5E5E5E;
+	padding: 5px;
+	color: white;
+
+}
+
+
+.container .no1 .hight p{
+margin-top: 20px;
+
+}
+
+.container .no1 .hight b{
+
+color: white;
+border-bottom: 1px dotted #999999;
+padding-bottom: 10px;
+}
+
+
+
+ .btn-black{
+	background: black;
+	color: white;
+	
+}
+
+ .btn-gold{
+	background: #c89348;
+	color: white;
+	
+}
+.btn-group{
+	text-align: center !important;
+	
+}
+
+.main3{
+	background: black;
+}
+.main3 p{
+	text-align: center;
+	color: #5E5E5E;
+}
